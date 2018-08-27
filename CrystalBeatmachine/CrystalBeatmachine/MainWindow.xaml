@@ -11,6 +11,11 @@
         >
 
     <Grid>
+<<<<<<< HEAD
+        <Button Content="Start" HorizontalAlignment="Left" Margin="372,98,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" />
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="372,145,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+
+=======
         
         <!-- Outer Window Border-->
         <Border>
@@ -193,6 +198,7 @@
                 <Border Grid.Row="2" Background="#808285" Visibility="Collapsed"></Border>
             </Grid>
         </Border>
+>>>>>>> 3e3804e26879c9bef03f725e6e59d1bc06429942
     </Grid>
 
     <WindowChrome.WindowChrome>
