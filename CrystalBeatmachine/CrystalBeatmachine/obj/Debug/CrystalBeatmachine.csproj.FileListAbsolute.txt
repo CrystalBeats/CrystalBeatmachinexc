@@ -1,0 +1,16 @@
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.exe.config
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.exe
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.pdb
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\irrKlang.NET4.dll
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.csprojResolveAssemblyReference.cache
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\MainWindow.g.cs
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\App.g.cs
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine_MarkupCompile.cache
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine_MarkupCompile.lref
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\MainWindow.baml
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.g.resources
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.Properties.Resources.resources
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.csproj.GenerateResource.Cache
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.csproj.CoreCompileInputs.cache
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.exe
+C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.pdb
