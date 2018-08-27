@@ -20,9 +20,21 @@ namespace CrystalBeatmachine
     /// </summary>
     public partial class MainWindow : Window
     {
+        Sequencer moffugga;
         public MainWindow()
         {
             InitializeComponent();
+            moffugga = new Sequencer();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            moffugga.Play();
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            moffugga.Stop();
         }
     }
 }
