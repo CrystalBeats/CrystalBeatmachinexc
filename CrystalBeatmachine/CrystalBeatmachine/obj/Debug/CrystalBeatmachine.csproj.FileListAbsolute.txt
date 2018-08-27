@@ -6,7 +6,6 @@ D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\o
 D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\App.g.cs
 D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine_MarkupCompile.cache
 D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine_MarkupCompile.lref
-D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\App.baml
 D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\MainWindow.baml
 D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\Styles\Colors.baml
 D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.g.resources
