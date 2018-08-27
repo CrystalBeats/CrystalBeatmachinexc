@@ -59,11 +59,11 @@
 
                                         <Grid.RowDefinitions>
                                             <RowDefinition></RowDefinition>
-                                            <RowDefinition Height="0.5*"></RowDefinition>
+                                            
                                         </Grid.RowDefinitions>
 
                                         <!-- Textblock -->
-                                        <Border>
+                                        <Border VerticalAlignment="Center">
                                             <StackPanel>
                                                 <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontStretch="UltraExpanded" FontSize="40">
                                                     TESTTESTTESTe    
@@ -76,6 +76,28 @@
 
             
                                         <!-- BMP Fader -->
+                                        
+                                        
+                                    </Grid>
+                                    
+                                </Border>
+                                
+                                <!-- Control Panel -->
+                                <Border Background="#6E6D5F" Grid.Column="1">
+
+                                    <Grid>
+
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        
+                                    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <Button Height="35" Width="200" Margin="10 2 10 5">Create Profile</Button>
+                                        <Button Height="35" Width="200" Margin="10 5 10 5">Load Profile</Button>
+                                        <Button Height="35"  Width="200" Margin="10 5 10 2"></Button>
+                                    </StackPanel>
+
                                         <Border Grid.Row="1">
                                             <Grid>
                                                 <Grid.ColumnDefinitions>
@@ -89,29 +111,16 @@
                                                         <Label Content="&lt;"></Label>
                                                     </Button>
                                                     <StackPanel>
-                                                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Set BPM </TextBlock>
+                                                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center">Set BPM</TextBlock>
                                                         <TextBlock HorizontalAlignment="Center">akt BPM</TextBlock>
-                                                        <Slider HorizontalAlignment="Center" VerticalAlignment="Center" Width="400"/>
+                                                        <Slider HorizontalAlignment="Center" VerticalAlignment="Center" Width="200"/>
                                                     </StackPanel>
                                                     <Button Width="50" Content="&gt;"/>
-                                                    
+
                                                 </StackPanel>
                                             </Grid>
                                         </Border>
-                                        
                                     </Grid>
-                                    
-                                </Border>
-                                
-                                <!-- Control Panel -->
-                                <Border Background="#6E6D5F" Grid.Column="1">
-
-                                    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
-                                        <Button Height="35" Width="200" Margin="10 2 10 5">Create Profile</Button>
-                                        <Button Height="35" Width="200" Margin="10 5 10 5">Load Profile</Button>
-                                        <Button Height="35"  Width="200" Margin="10 5 10 2"></Button>
-                                    </StackPanel>
-                                    
                                 </Border>
                                 
                             </Grid>

@@ -23,6 +23,9 @@ namespace CrystalBeatmachine
         public MainWindow()
         {
             InitializeComponent();
+
+            this.DataContext = new MainViewModel();
+
         }
     }
 }
