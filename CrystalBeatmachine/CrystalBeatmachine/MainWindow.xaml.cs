@@ -24,6 +24,7 @@ namespace CrystalBeatmachine
         public MainWindow()
         {
             InitializeComponent();
+<<<<<<< HEAD
             moffugga = new Sequencer();
         }
 
@@ -35,6 +36,11 @@ namespace CrystalBeatmachine
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             moffugga.Stop();
+=======
+
+            this.DataContext = new MainViewModel();
+
+>>>>>>> 3e3804e26879c9bef03f725e6e59d1bc06429942
         }
     }
 }

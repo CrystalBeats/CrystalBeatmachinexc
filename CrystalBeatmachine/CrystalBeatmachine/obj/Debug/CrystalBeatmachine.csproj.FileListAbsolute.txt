@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.exe.config
 C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.exe
 C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.pdb
@@ -14,3 +15,22 @@ C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\Cry
 C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.csproj.CoreCompileInputs.cache
 C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.exe
 C:\Users\chokemedaddy\Documents\GitHub\CrystalBeatmachine\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.pdb
+=======
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.exe.config
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.exe
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\bin\Debug\CrystalBeatmachine.pdb
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.csprojAssemblyReference.cache
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\MainWindow.g.cs
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\App.g.cs
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine_MarkupCompile.cache
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine_MarkupCompile.lref
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\App.baml
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\MainWindow.baml
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\Styles\Colors.baml
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.g.resources
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.Properties.Resources.resources
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.csproj.GenerateResource.cache
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.exe
+D:\Documents\GitHub\CrystalBeatmachinexc\CrystalBeatmachine\CrystalBeatmachine\obj\Debug\CrystalBeatmachine.pdb
+>>>>>>> 3e3804e26879c9bef03f725e6e59d1bc06429942
